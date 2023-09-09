@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome%20&fontSize=90&animation=twinkling&desc=Hi!%20I'm%20Hayeon!&descAlignY=70)
 
-### 안녕하세요! 장하연입니다.
-저는 현재 
+<h3 align="center">안녕하세요! 장하연입니다.</h3>
+ 
 <h3 align="center">🔨 SKILL 🔨</h3>
 <div align=center>
 <div style="display:flex; flex-direction:row;">
