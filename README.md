@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome%20&fontSize=90&animation=twinkling&desc=Hi!%20I'm%20Hayeon!&descAlignY=70)
 
-<h3 align="center">안녕하세요! 장하연입니다.</h3>
+<h3 align="center">안녕하세요!</h3>
 <p align="center">저는 코딩 공부를 하고있는 대학생입니다!</p>
  
 <h3 align="center">🔨 SKILL 🔨</h3>
@@ -32,14 +32,12 @@ Here are some ideas to get you started:
     <br>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-
+    <br>
     <h3 align="center">🔨 TOOLS 🔨</h3>
     <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white">
-
 </div><br>
-</div>
 </div>
 
 
