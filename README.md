@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 안녕하세요! 장하연입니다.
 저는 현재 
-## 🔨 SKILL 🔨
+<h3 align="center">🔨 SKILL 🔨</h3>
 <div align=center>
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
