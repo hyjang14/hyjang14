@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ## 🔨 Once I've used 🔨
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:row; "text-align: center;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
     <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
