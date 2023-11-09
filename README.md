@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome%20&fontSize=90&animation=twinkling&desc=Hi!&descAlignY=70)
 
-<h3 align="center">안녕하세요!</h3>
-<p align="center">저는 코딩 공부를 하고있는 대학생입니다!</p>
+<h3 align="center"></h3>
+<p align="center"></p>
  
 <h3 align="center">🔨 SKILL 🔨</h3>
 <div align=center>
