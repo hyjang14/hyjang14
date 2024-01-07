@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <br>
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white"> 
     <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyjang14&layout=compact)](https://github.com/delay-100/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyjang14&layout=compact)](https://github.com/hyjang14/github-readme-stats)
 
 </div><br>
 </div>
