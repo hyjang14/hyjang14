@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <br>
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white"> 
     <br><br>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyjang14&langs_count=6&hide=jupyter%20notebook,roff">
 
 </div><br>
 </div>
