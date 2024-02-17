@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome%20&fontSize=90&animation=twinkling&desc=👋&nbsp;Hi!&nbsp;Welcome&nbsp;to&nbsp;my&nbsp;github!&descAlignY=70)
 
-<h3 align="center">
+<div align=center>
      반갑습니다! 제 이름은 장하연입니다.<br>
     저는 현재 대학교에서 Computer Science를 공부하고 있는 학생입니다!<br>
-    🔨 Skill 🔨</h3>
-<div align=center>
+<h3 align="center">🔨 Skill 🔨</h3>
 <div style="display:flex; flex-direction:row;">
     <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
     <br>
