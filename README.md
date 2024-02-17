@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">🔨 Skill 🔨</h3>
 <div align=center>
-    반갑습니다! 
-    제 이름은 장하연이 Computer Science를 공부하고 있습니다!
+    반갑습니다!<br>
+    제 이름은 장하연이고 Computer Science를 공부하고 있습니다!<br>
     현재 대학교에 재학중이며, 
 <div style="display:flex; flex-direction:row;">
     <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
