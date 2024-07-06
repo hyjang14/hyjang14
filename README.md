@@ -34,8 +34,8 @@ Here are some ideas to get you started:
     <br><br>
 
 </div><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=첫번째+줄+의+텍스트;두번째+줄+의+텍스트)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyjang14)](https://github.com/hyjang14/github-readme-stats)
 
 </div>
 
