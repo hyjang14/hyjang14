@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome%20&fontSize=90&animation=twinkling&desc=👋&nbsp;Hi!&nbsp;Welcome&nbsp;to&nbsp;my&nbsp;github!&descAlignY=70)
 
-<div align=center>
+
      반갑습니다!<br>
 <!--     제 이름은 장하연입니다.<br> -->
     저는 Computer Science를 공부하고 있는 학생입니다!<br>
