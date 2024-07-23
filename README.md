@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 
 </div><br>
 
+<h3 align="center">🔨 Tools 🔨</h3>
+<div style="display:flex; flex-direction:row;">
+     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
 </div>
 
 
