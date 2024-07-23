@@ -19,7 +19,7 @@ Here are some ideas to get you started:
      반갑습니다!<br>
 <!--     제 이름은 장하연입니다.<br> -->
     저는 Computer Science를 공부하고 있는 학생입니다!<br>
-<h3 align="center">🔨 Skill 🔨</h3>
+<h3 align="center">💻️ Skill 💻️</h3>
 <div style="display:flex; flex-direction:row;">
     <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
     <br>
