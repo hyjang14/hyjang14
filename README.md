@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 <a href="mailto:hhayounn1114@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hhayounn1114@gmail.com"/></a>
 </div>
 
+<br>
+
 <h3 align="center">💻️ Skill 💻️</h3>
 <div style="display:flex; flex-direction:row;">
     <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
