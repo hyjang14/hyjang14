@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h3 align="center"><b>💌 Contact 💌 </b></h3>
 </br>
 <p align="center">
-<a href="mailto:hhayounn1114@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hhayounn1114@gmail.com"/></a>
+<a href="mailto:hhayounn1114@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hhayounn1114@gmail.com"/></a>
 </p>
 
 <h3 align="center">💻️ Skill 💻️</h3>
