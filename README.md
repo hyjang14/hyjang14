@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align=center>
      <h3>Welcome to Hayeon's Github!<br>
 <!--     제 이름은 장하연입니다<br> -->
-   🌱 I’m currently learning Computer Science!<br><br></h3>
+   🌱I’m currently learning Computer Science!🌱<br><br></h3>
 <h3 align="center">💻️ Skill 💻️</h3>
 <div style="display:flex; flex-direction:row;">
     <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
