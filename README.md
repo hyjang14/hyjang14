@@ -50,6 +50,8 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 </div>
 
+<a href="https://github.com/hyjang14"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyjang14&layout=compact&theme=nord&hide_border=true" /></a> 
+
 
 
 
