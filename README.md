@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
      <h3>Welcome to Hayeon's Github!<br>
 <!--     제 이름은 장하연입니다<br> -->
-   🌱I’m currently studying Web and Computer Science!🌱<br><br></h3>
+   🌱I’m currently studying Computer Science!🌱<br><br></h3>
 
 <h3 align="center"><b>💌 Contact 💌 </b></h3>
 <div align="center">
